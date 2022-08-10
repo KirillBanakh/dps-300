@@ -1,7 +1,8 @@
-Record=TopLevelDocument|FileName=Display.SchDoc|SheetNumber=5
-Record=NoMainPathDocument|SourceDocument=Display.SchDoc|FileName=Flash.SchDoc|SheetNumber=7
-Record=NoMainPathDocument|SourceDocument=Display.SchDoc|FileName=Keyboard.SchDoc|SheetNumber=6
-Record=NoMainPathDocument|SourceDocument=Display.SchDoc|FileName=LoRa.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=Display.SchDoc|FileName=MCU.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=Display.SchDoc|FileName=Power.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=Display.SchDoc|FileName=USB.SchDoc|SheetNumber=3
+Record=TopLevelDocument|FileName=Connectors.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Connectors.SchDoc|FileName=Display.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=Connectors.SchDoc|FileName=Flash.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=Connectors.SchDoc|FileName=Keyboard.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=Connectors.SchDoc|FileName=LoRa.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Connectors.SchDoc|FileName=MCU.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Connectors.SchDoc|FileName=Power.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Connectors.SchDoc|FileName=USB.SchDoc|SheetNumber=3
